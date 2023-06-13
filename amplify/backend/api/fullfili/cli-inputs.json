@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "fullfili",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authfullfilic7ee246e"
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "API_KEY",
+        "expirationTime": 180,
+        "apiKeyExpirationDate": "2023-12-10T17:22:51.473Z",
+        "keyDescription": "Fullfili GraphQL API Key"
+      }
+    ]
+  }
+}

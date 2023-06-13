@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fullfili-dev-95250-authRole",
+      "UnauthRoleArn": "arn:aws:iam::293298582110:role/amplify-fullfili-dev-95250-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::293298582110:role/amplify-fullfili-dev-95250-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-fullfili-dev-95250-deployment",
+      "UnauthRoleName": "amplify-fullfili-dev-95250-unauthRole",
+      "StackName": "amplify-fullfili-dev-95250",
+      "StackId": "arn:aws:cloudformation:us-west-2:293298582110:stack/amplify-fullfili-dev-95250/5a948800-0a02-11ee-8f38-06fc40a079b1",
+      "AmplifyAppId": "d282fqnrffpvgv"
+    }
+  }
+}

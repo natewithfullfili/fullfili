@@ -10,6 +10,11 @@
       "StackName": "amplify-fullfili-dev-95250",
       "StackId": "arn:aws:cloudformation:us-west-2:293298582110:stack/amplify-fullfili-dev-95250/5a948800-0a02-11ee-8f38-06fc40a079b1",
       "AmplifyAppId": "d282fqnrffpvgv"
+    },
+    "categories": {
+      "auth": {
+        "fullfilic7ee246e": {}
+      }
     }
   }
 }
